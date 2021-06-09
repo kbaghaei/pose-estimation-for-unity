@@ -8,3 +8,9 @@ and libraries for extraction of human pose key points from images. For correspon
 refer to [the Detectron2's licence page here.](https://github.com/facebookresearch/detectron2/blob/master/LICENSE)
 
 
+Copyright (c) 2021 Kourosh T. Baghaei
+
+This project is licensed under the license found in the
+[LICENSE](https://github.com/k-timy/3d-pose-in-unity/blob/main/LICENSE) file in the root directory of this source tree.
+
+
